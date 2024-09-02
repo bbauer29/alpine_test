@@ -1,1 +1,1 @@
-FROM bbauer29/alpinetest:latest
+FROM bbauer29/alpinetest:v2
